@@ -120,6 +120,12 @@ img {
   color: $gray;
 }
 
+.all-posts {
+  margin-top: 15px;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -193,11 +199,13 @@ img {
 .site-name {
   margin: 0;
   color: $darkGray;
-  cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  font-family: 'Raleway';
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 4px;
 }
 
 .site-description {
@@ -283,7 +291,18 @@ footer {
   text-align: center;
 }
 
+footer a {
+  color: #777;
+  font-size: 30px;
+  margin-left: 3px;
+  margin-right: 3px;
+  & :hover {
+    color: #333;
+    text-decoration: none;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
-@import "svg-icons";
+
