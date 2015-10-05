@@ -148,6 +148,12 @@ img {
     clear: both;
 }
 
+.hide-350px {
+  @media screen and (max-width: 350px) {
+    display: none;
+  }
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -206,6 +212,12 @@ img {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 4px;
+}
+
+.site-name span {
+  @media screen and (max-width: 350px) {
+    display: none;
+  }
 }
 
 .site-description {

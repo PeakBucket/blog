@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -24,12 +21,12 @@
           <img class="site-avatar" src="{{ site.avatar }}" />
 
           <div class="site-info">
-            <a href="{{ site.baseurl }}/"><h1 class="site-name"><i class="fa fa-rss" title="Blog"></i> | {{ site.name }}</h1></a>
+            <a href="{{ site.baseurl }}/"><h1 class="site-name"><span><i class="fa fa-rss" title="Blog"></i> |</span> {{ site.name }}</h1></a>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
           <nav>
-            <a href="http://www.peakbucket.com"><i class="fa fa-globe"></i> Home</a>
+            <a href="http://www.peakbucket.com" target="_blank" title="www.peakbucket.com"><i class="fa fa-globe"></i> Site</a>
           </nav>
 
         </header>
