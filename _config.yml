@@ -6,7 +6,7 @@
 name: PeakBucket
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A data tracking and visualization website for peakbaggers
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://secure.gravatar.com/avatar/1e936ce6768bdaba89f583130bfe1b55
@@ -21,8 +21,8 @@ footer-links:
   email: peakbucket@gmail.com
   facebook: peakbucket
   flickr:
-  github: peakbucket
-  instagram: peakbucket
+  github:
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
