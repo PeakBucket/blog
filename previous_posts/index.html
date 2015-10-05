@@ -1,0 +1,28 @@
+---
+layout: default
+title: Previous Posts
+---
+<h3 class="title">{{ page.title }}</h3>
+
+<div class="posts">
+  {% for post in site.posts %}
+
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% unless year == this_year %}
+      {% assign year = this_year %}
+      <h2>{{ year }}</h2>
+    {% endunless %}
+
+
+    <h3 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a> |
+      <time datetime="{{ post.date | date_to_xmlschema }}"
+        class="post-date">{{ post.date | date_to_string }}</time>
+    </h3>
+
+  {% endfor %}
+
+</div>
