@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Website
 
-### More Information
+[www.peakbucket.com](http://www.peakbucket.com)
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[peakbucket@gmail.com](mailto:peakbucket@gmail.com)

@@ -1,0 +1,6 @@
+---
+layout: post
+title: Post 1
+---
+
+This is the first post.
