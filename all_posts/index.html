@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Previous Posts
+title: All Posts
 ---
-<h3 class="title">{{ page.title }}</h3>
+<h2 class="all-posts-title">{{ page.title }}</h2>
 
 <div class="posts">
   {% for post in site.posts %}
@@ -11,17 +11,17 @@ title: Previous Posts
 
     {% unless year == this_year %}
       {% assign year = this_year %}
-      <h2>{{ year }}</h2>
+      <h3 class="posts-year">{{ year }}</h3>
     {% endunless %}
 
 
-    <h3 class="post-title">
+    <h4 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a> |
       <time datetime="{{ post.date | date_to_xmlschema }}"
         class="post-date">{{ post.date | date_to_string }}</time>
-    </h3>
+    </h4>
 
   {% endfor %}
 
