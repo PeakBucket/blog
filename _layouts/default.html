@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} Blog</title>
 
     {% include meta.html %}
 
@@ -13,6 +13,9 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    {% for css in page.customCSS %}
+      <link rel="stylesheet" type="text/css" href="{{ css }}" />
+    {% endfor %}
   </head>
 
   <body>
@@ -49,6 +52,11 @@
       </div>
     </div>
 
+    <!-- scripts -->
+    {% for js in page.customJS %}
+      <script type="text/javascript" src="{{ js }}"></script>
+    {% endfor %}
     {% include analytics.html %}
+
   </body>
 </html>
