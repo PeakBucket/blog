@@ -30,34 +30,41 @@ $(document).ready(function() {
     d3.select('#activities-with-stats').text(data.activities_with_stats);
     d3.select('#us-distance-multiple').text(data.us_distance_multiple);
     d3.select('#everest-elevation-multiple').text(data.everest_elevation_multiple);
+    d3.select('#total-activity-distance').text(
+      post.noDecimalNum(data.total_activity_distance_km * 0.621371)
+    );
+    d3.select('#total-activity-elevation-gain').text(
+      post.noDecimalNum(data.total_activity_elevation_gain_meters * 3.28084)
+    );
     // draw charts and animate activity stats at waypoints
     $('#user-top-10-loc').waypoint(function() {
       post.userTop10LocChart.draw(data.user_top_10_loc, false, 'users');
     }, {
-      offset: '80%'
+      offset: '90%'
     });
     $('#activity-peak-top-10-summits').waypoint(function() {
       post.activityPeakTop10Summits.draw(data.activity_peak_top_10_summits,
       true, 'summits');
     }, {
-      offset: '50%'
+      offset: '60%'
     });
     $('#user-lists-top-10').waypoint(function() {
       post.userListsTop10.draw(data.user_lists_top_10, true, 'pursuers');
     }, {
-      offset: '50%'
+      offset: '60%'
     });
     $('#user-c-styles').waypoint(function() {
+      $(window).resize(); // IE
       post.userCStyles.draw(data.user_c_styles);
     }, {
-      offset: '50%'
+      offset: '60%'
     });
     $('#activity-stats-container').waypoint(function() {
       post.animateDistance(post.distance_km, post.units);
       post.animateElevation(post.elevation_m, post.units);
       this.destroy();
     }, {
-      offset: '50%'
+      offset: '90%'
     });
   });
 });
