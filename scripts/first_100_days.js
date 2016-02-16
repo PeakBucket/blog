@@ -48,7 +48,6 @@ $(document).ready(function() {
       offset: '50%'
     });
     $('#user-c-styles').waypoint(function() {
-      $(window).resize(); // IE
       post.userCStyles.draw(data.user_c_styles);
     }, {
       offset: '50%'
