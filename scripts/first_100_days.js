@@ -12,10 +12,10 @@ $(document).ready(function() {
   // load data
   d3.json('/data/first_100_days.json', function(error, data) {
     if (error) return console.warn(error);
-    // set data elements for activity stats animations with units toggle
-    post.units = 'imperial'; // default
+    // set activity stats data
+    post.units = 'imperial';
     post.distance_km = data.total_activity_distance_km;
-    post.elevation_m = data.total_activity_elevation_gain_meters;
+    post.elevation_m = data.total_activity_elevation_gain_m;
     // update text
     d3.select('#user-count').text(data.user_count);
     d3.select('#user-us-states').text(data.user_us_states);
@@ -34,9 +34,9 @@ $(document).ready(function() {
       post.noDecimalNum(data.total_activity_distance_km * 0.621371)
     );
     d3.select('#total-activity-elevation-gain').text(
-      post.noDecimalNum(data.total_activity_elevation_gain_meters * 3.28084)
+      post.noDecimalNum(data.total_activity_elevation_gain_m * 3.28084)
     );
-    // draw charts and animate activity stats at waypoints
+    // waypoints
     $('#user-top-10-loc').waypoint(function() {
       post.userTop10LocChart.draw(data.user_top_10_loc, false, 'users');
     }, {
@@ -116,17 +116,17 @@ post.BarChart.prototype.draw = function(data, rotateXLabels, name) {
     .scale(this.y)
     .orient('left')
     .ticks(5)
-    .tickFormat(d3.format("d"));
+    .tickFormat(d3.format('d'));
   this.svg.append('g')
     .attr('class', 'x axis ' + name)
     .attr('transform', 'translate(0,' + this.viewBoxHeight + ')')
     .call(this.xAxis);
   if(rotateXLabels) {
-    d3.selectAll(".x.axis." + name + " text")
-      .attr("transform", "rotate(-30)")
+    d3.selectAll('.x.axis.' + name + ' text')
+      .attr('transform', 'rotate(-30)')
       .attr('dx','-.8em')
       .attr('dy','.3em')
-      .style("text-anchor", "end");
+      .style('text-anchor', 'end');
   }
   this.svg.append('g')
     .attr('class', 'y axis')
@@ -135,12 +135,12 @@ post.BarChart.prototype.draw = function(data, rotateXLabels, name) {
   var y = this.y;
   this.bars = this.svg.selectAll('rect')
     .data(data)
-    .enter().append("rect")
+    .enter().append('rect')
       .attr('class', 'bar')
-      .attr("x", function(d) {return x(d.short);})
-      .attr("y", this.viewBoxHeight)
-      .attr("width", this.x.rangeBand())
-      .attr("height", 0)
+      .attr('x', function(d) {return x(d.short);})
+      .attr('y', this.viewBoxHeight)
+      .attr('width', this.x.rangeBand())
+      .attr('height', 0)
       .style('fill','white')
       .style('stroke','white')
       .on('mouseover', function(d) {
@@ -153,8 +153,8 @@ post.BarChart.prototype.draw = function(data, rotateXLabels, name) {
       })
     .transition()
       .duration(750)
-        .attr("height", function(d) {return y(0) - y(d.count);})
-        .attr("y", function(d) {return y(d.count);})
+        .attr('height', function(d) {return y(0) - y(d.count);})
+        .attr('y', function(d) {return y(d.count);})
         .style('fill', function(d) {return colorScale(d.count);})
         .style('stroke','#222');
 }
@@ -173,11 +173,11 @@ post.PieChart = function(element) {
   this.svg = d3.select(element)
     .attr('preserveAspectRatio', 'xMidYMid')
     .attr('viewBox', '0 0 ' + this.viewBoxWidth + ' ' + this.viewBoxHeight)
-    .attr("width", this.width)
-    .attr("height", this.height)
-    .append("g")
-    .attr("transform", "translate(" + this.viewBoxWidth  / 2 + ","
-      + this.viewBoxHeight / 2 + ")");
+    .attr('width', this.width)
+    .attr('height', this.height)
+    .append('g')
+    .attr('transform', 'translate(' + this.viewBoxWidth  / 2 + ','
+      + this.viewBoxHeight / 2 + ')');
 }
 
 post.PieChart.prototype.draw = function(data) {
@@ -203,7 +203,7 @@ post.PieChart.prototype.draw = function(data) {
     .duration(750)
     .style('fill', function(d){return colorScale(d.data.count)})
     .style('stroke','#222')
-    .attrTween("d", post.arcTween);
+    .attrTween('d', post.arcTween);
 }
 
 post.arcTween = function(a) {
@@ -252,7 +252,7 @@ post.tooltipHide = function() {
     .remove();
 }
 
-// activity stats animations and units selection
+// activity stats
 post.animateDistance = function(value, units) {
   var measure = 'Kilometers';
   if(units == 'imperial') {
