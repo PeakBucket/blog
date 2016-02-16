@@ -6,19 +6,19 @@ layout: default
   {% for post in site.posts limit:3 %}
     <article class="post">
 
-      <h1><a href="{{ post.url }}" target="_parent" >{{ post.title }}</a></h1>
+      <h1><a href="{{ site.url }}{{ post.url | remove_first:'/'}}" target="_parent" >{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ post.url }}" target="_parent" class="read-more">
+      <a href="{{ site.url }}{{ post.url | remove_first:'/'}}" target="_parent" class="read-more">
         <i class="fa fa-plus"></i> Read More
       </a>
     </article>
   {% endfor %}
 </div>
 
-<h3 class="all-posts-link"><a href="/all_posts/" target="_parent">
+<h3 class="all-posts-link"><a href="{{ site.url }}all_posts" target="_parent">
   <i class="fa fa-history"></i> All Posts</a>
 </h3>
