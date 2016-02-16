@@ -12,9 +12,13 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+        <i class="fa fa-plus"></i> Read More
+      </a>
     </article>
   {% endfor %}
 </div>
 
-<h3 class="all-posts-link"><a href="{{ site.baseurl }}/all_posts/">All Posts</a></h3>
+<h3 class="all-posts-link"><a href="{{ site.baseurl }}/all_posts/">
+  <i class="fa fa-history"></i> All Posts</a>
+</h3>

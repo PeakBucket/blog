@@ -1,0 +1,60 @@
+{
+  "user_count": 222,
+  "user_countries": 7,
+  "user_us_states": 23,
+  "user_top_10_loc": [
+    {"short": "MA", "long": "Massachusetts, USA", "count": 63},
+    {"short": "NH", "long": "New Hampshire, USA", "count":  44},
+    {"short": "NY", "long": "New York, USA", "count": 25},
+    {"short": "QC", "long": "Quebec, Canada", "count":  11},
+    {"short": "ME", "long": "Maine, USA", "count":  11},
+    {"short": "CO", "long": "Colorado, USA", "count": 10},
+    {"short": "MT", "long": "Montana, USA", "count":  9},
+    {"short": "CT", "long": "Connecticut, USA", "count":  7},
+    {"short": "RI", "long": "Rhode Island, USA", "count": 5},
+    {"short": "UT", "long": "Utah, USA", "count": 4}
+  ],
+  "peaks_then": 413,
+  "peaks_now": 4577,
+  "activity_peaks": 3951,
+  "activity_peak_top_10_summits": [
+    {"short": "Washington", "long": "Washington (NH, USA)", "count":  109},
+    {"short": "Lafayette", "long": "Lafayette (NH, USA)", "count": 92},
+    {"short": "Lincoln", "long": "Lincoln (NH, USA)", "count": 89},
+    {"short": "Eisenhower", "long": "Eisenhower (NH, USA)", "count": 72},
+    {"short": "Monroe", "long": "Monroe (NH, USA)", "count":  68},
+    {"short": "Pierce", "long":  "Pierce (NH, USA)", "count":  67},
+    {"short": "Adams", "long": "Adams (NH, USA)", "count": 67},
+    {"short": "Jefferson", "long": "Jefferson (NH, USA)", "count": 66},
+    {"short": "Liberty", "long": "Liberty (NH, USA)", "count": 62},
+    {"short": "Madison", "long": "Madison (NH, USA)", "count": 62}
+  ],
+  "lists_then": 11,
+  "lists_now": 52,
+  "user_lists_top_10": [
+    {"short": "NH 48", "long": "New Hampshire 4000 Footers", "count": 80},
+    {"short": "NE 67", "long": "New England 4000 Footers", "count": 51},
+    {"short": "NH 52", "long": "New Hampshire 52 With A View", "count": 48},
+    {"short": "NE 100", "long": "New England 100 Highest", "count": 44},
+    {"short": "NE 115", "long": "Northeast 4000 Footers", "count": 36},
+    {"short": "ADK 46", "long": "Adirondack 4000 Footers", "count": 31},
+    {"short": "NE 50", "long": "New England 50 Finest", "count": 17},
+    {"short": "CO 14ers", "long": "Colorado 14ers", "count": 13},
+    {"short": "US 50", "long": "U.S. State Highpoints", "count": 10},
+    {"short": "ADK 100", "long": "Adirondack 100 Highest", "count": 9}
+  ],
+  "user_c_styles": [
+    {"name": "All Season", "count": 349, "total": 591},
+    {"name": "Winter", "count": 93, "total": 591},
+    {"name": "Four Season", "count": 91, "total": 591},
+    {"name": "Grid", "count": 58, "total": 591}
+  ],
+  "non_all_season_c_styles": "41%",
+  "activity_count": 2212,
+  "activities_with_stats": "67%",
+  "total_activity_distance_km": 24442.41923,
+  "us_distance_multiple": "4.2",
+  "total_activity_elevation_gain_meters": 1172914.421,
+  "everest_elevation_multiple": "132.6"
+
+}

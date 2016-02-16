@@ -1,0 +1,896 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"get",
+				"getParamObjectFromHash"
+			],
+			[
+				"handle",
+				"handleHashchange"
+			],
+			[
+				"data",
+				"dataXHR"
+			],
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"scenario",
+				"scenarioToTest"
+			],
+			[
+				"scenar",
+				"scenarioToTest"
+			],
+			[
+				"curr",
+				"currentYear"
+			],
+			[
+				"view",
+				"viewingSelf"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"use",
+				"userID"
+			],
+			[
+				"firs",
+				"firstNamePlural"
+			],
+			[
+				"all",
+				"all_activities"
+			],
+			[
+				"comple",
+				"completion_style_rows"
+			],
+			[
+				"completed",
+				"completed_peaks_by_bucket"
+			],
+			[
+				"windo",
+				"windowWidth"
+			],
+			[
+				"rand",
+				"randomizeArray"
+			],
+			[
+				"target",
+				"targetDate"
+			],
+			[
+				"opportun",
+				"opportunityRowsAdded"
+			],
+			[
+				"upda",
+				"updateAllViews"
+			],
+			[
+				"Del",
+				"DeliveryLoc"
+			],
+			[
+				"current",
+				"currentElement"
+			],
+			[
+				"tagD",
+				"tagDominicanRepublic"
+			],
+			[
+				"collecti",
+				"collectionLength"
+			],
+			[
+				"nextA",
+				"nextArtAddIndex"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"artColl",
+				"artCollectionFiltered"
+			],
+			[
+				"collect",
+				"collectionLength"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"point",
+				"pointsPerGem"
+			],
+			[
+				"avat",
+				"avatarIndex"
+			],
+			[
+				"avatar",
+				"avatarImages"
+			],
+			[
+				"ava",
+				"avatarIndex"
+			],
+			[
+				"formatt",
+				"formattedEmployerTitle"
+			],
+			[
+				"curentdrop",
+				"currentDropDownID"
+			],
+			[
+				"curren",
+				"currentDropDown"
+			],
+			[
+				"curre",
+				"currentDropDown"
+			],
+			[
+				"if",
+				"ife	if … else"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "JSON",
+		"selected_items":
+		[
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Ja",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc	",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xls",
+				"Set Syntax: XSL"
+			],
+			[
+				"javas	",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr	",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"oackage",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"s",
+				"Set Syntax: JSON"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"Install",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/03323348/workspace/peakbucket.github.io/styles/first_100_days.css",
+		"/C/Users/03323348/workspace/peakbucket.github.io/scripts/first_100_days.js",
+		"/C/Users/03323348/workspace/peakbucket.github.io/data/first_100_days.json",
+		"/C/Users/03323348/workspace/peakbucket.github.io/_posts/2016-2-18-first-100-days.md",
+		"/C/Users/03323348/workspace/peakbucket.github.io/style.scss",
+		"/C/Users/03323348/workspace/peakbucket.github.io/index.html",
+		"/C/Users/03323348/workspace/peakbucket.github.io/_site/index.html",
+		"/C/Users/03323348/workspace/peakbucket.github.io/_layouts/default.html",
+		"/C/Users/03323348/workspace/peakbucket.github.io/_layouts/post.html",
+		"/C/Users/03323348/workspace/peakbucket.github.io/_site/style.css",
+		"/C/Users/03323348/workspace/peakbucket.github.io/_sass/first_100_days.scss",
+		"/C/Users/03323348/workspace/peakbucket.github.io/_site/first-100-days/index.html",
+		"/C/Users/03323348/workspace/peakbucket/test/integration/lists_view_test.rb",
+		"/C/Users/03323348/workspace/peakbucket/test/integration/activity_management_test.rb",
+		"/C/Users/03323348/workspace/peakbucket/test/integration/users_list_progress_detail_test.rb",
+		"/C/Users/03323348/workspace/peakbucket/config/initializers/assets.rb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/edit.js.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/_header.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/_save.js.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/helpers.js",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/log/UserShowLogContainer.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/log/LogTable.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/create.js.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/update.js.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/destroy.js.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/new.js.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/delete.js.erb",
+		"/C/Personal/03323348/Desktop/Programing/Site Notes/PB/old_user_show/activity_index_old.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/top/UserShowTopSelections.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/window.js",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz/log/ActivityShowModal_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/log/ActivityShowModal.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz/log/UserShowLogContainer_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz/log/LogTable_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz/log/LogHeatMap_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz/top/UserShowTop_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz/UserShow_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/log/LogHeatMap.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/UserShow.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/components/SharedUserDataStatus_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/components/SharedUserSocialIcons_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_specs/user_show_viz/top/UserShowTopSelections_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_tests/user_show_viz_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react/components/SharedUserDataStatus.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react/components/SharedUserSocialIcons.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/spec/javascripts/react_tests/shared_components_spec.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/components/SharedUserDataStatus.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/top/UserShowTop.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/show.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/users.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/components/SharedUserSocialIcons.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/stats/UserShowStatsContainer.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/components/top.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/log.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/log/ActivityShowModal.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/log/LogHeatMap.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/log/UserShowLogContainer.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/log/LogTable.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/icons.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/main.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/indexes.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/_index.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/list_progress.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/lists/_index_table.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/_activity.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/admin/lists/_list.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/admin/peaks/_peak.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/vendor/assets/javascripts/activity_peaks_selectize/script.js",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/tables.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/forms.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/internet_explorer.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/footer.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/base/header.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/mixins/typography.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/activities.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/bootstrap_customization/bootstrap_overrides.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/palettes/palettes.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/mixins/mixins_main.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/lists.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/admin/admin.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/peaks.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/password_resets.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/sessions.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/stylesheets/views/static_pages.scss",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/top.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/main.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/views/json/user_show_data.json.jbuilder",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react_components.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/react/stats.js.jsx",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/cossfilter.js",
+		"/C/Users/03323348/workspace/peakbucket/db/seeds/production.rb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/edit.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/_user.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/private.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/new.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/index.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/_user_fields.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/_progress_list.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/users/list_progress_detail.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/peaks/show.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/lists/index.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/peaks/index.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/password_resets/new.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/password_resets/edit.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/lists/show.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/layouts/application.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/errors/unprocessable_422.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/errors/file_not_found_404.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/errors/internal_server_error_500.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/activities/_form.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/sessions/new.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/static_pages/support.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/static_pages/terms-and-policies.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/static_pages/faq.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/static_pages/contact.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/static_pages/about.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/static_pages/home.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/lists/_list.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/lists/_list_completion_styles.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/peaks/_peak.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/layouts/mailer.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/layouts/mailer.text.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/layouts/_footer.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/views/layouts/_header.html.erb",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/c_styles.js",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/user_show_viz/data.js",
+		"/C/Users/03323348/workspace/peakbucket/app/assets/javascripts/visualizations/list_progress_detail_viz/view.js.jsx"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\03323348\\workspace\\peakbucket.github.io",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\helpers",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets\\stylesheets",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\test",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\test\\integration",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\views\\lists",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets\\stylesheets",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets\\stylesheets",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket.github.io",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets\\stylesheets",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets\\stylesheets",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\views",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\assets\\stylesheets",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\app\\views",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\Users\\03323348\\workspace\\peakbucket\\test",
+			"C:\\Users\\03323348\\workspace\\peakbucket",
+			"C:\\wampServers\\francesKornbluth",
+			"C:\\Users\\03323348\\workspace\\peakbucket"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chart",
+			"all posts",
+			"read more",
+			"read ",
+			"read more",
+			"styles",
+			"\"",
+			"peak_id_one",
+			"@peak_ids",
+			"\"",
+			"#activity-index",
+			"activity-index",
+			"_save",
+			"sortedActivityIDs",
+			"activityShowTo",
+			"experi",
+			"_getSortedActivityIDsFromChild",
+			"handleActivityShowSelection",
+			"toggleArr",
+			"a.",
+			"aIDArr",
+			"onActivityShowMod",
+			"_handleActivityShowModalOpen",
+			"_handleActivityShowModalUpdate",
+			"activityShowSelection",
+			"selectedActivity",
+			"onActivityShowModalOpen",
+			"_handleActivityShowModalClose",
+			"_handleActivityShowModalUpdate",
+			"selectedActivity",
+			"handleActivityShowSelection",
+			"_handleActivityShowModalOpen",
+			"Modal",
+			"activityShowModalVisible",
+			"activityShowSelection",
+			"activityShowModalVisible",
+			"activityShowSelection",
+			"handleActivityShowSelection",
+			"handleActivityShowModalOpen",
+			"_handleActivityDelete",
+			"_handleActivityEdit",
+			"_activity",
+			"_activityIDs",
+			"_activities",
+			"_peaks",
+			"_handleActivityShowSelectionUpdate",
+			"_handleActivityShowModalUpdate",
+			"handleActivityShowSelection",
+			"user edit link icon",
+			"child",
+			"// TODO",
+			"TODO",
+			"pluralize",
+			"durString",
+			"elevString",
+			"distString",
+			"onSelection",
+			"selectionChange",
+			"UserShowTopSel",
+			"prefix",
+			"full_name",
+			"this.props.onSelectionChange",
+			"emits user selection on click of Log or Stats btn",
+			"_handleTopSelectionChange",
+			"_handleHashChange",
+			"_handleInitialTopSelection",
+			"_loadData",
+			"_handleButtonClass",
+			"_handleSelectionChange",
+			"onSelectionChange",
+			"handleSortActivities",
+			"handleSortData",
+			"_handleNextActivity",
+			"_handlePreviousActivity",
+			"_handleSortIconTitle",
+			"_handleSortIconClass",
+			"_handleSortPeakData",
+			"_handleSortStateChange",
+			"_handleActivityShowModalOpen",
+			"_handleActivityShowSelectionData",
+			"_handleSortIconClass",
+			"_handleSortData",
+			"_handleSortStateChange",
+			"_handleActivityDelete",
+			"_handleActivityEdit",
+			"activityShowData",
+			"_data",
+			"'",
+			"Slug",
+			"slug",
+			"_handleActivityEdit",
+			"#user-show",
+			"topSelection",
+			"dataXHR",
+			"handleTopSelectionChange",
+			"handleHash",
+			"handleSe",
+			"_handleSelection",
+			"selectionChang",
+			"'",
+			"handleActivityAdd",
+			"}\n",
+			"sortedActivityIDArr",
+			"_handleSortStateChange",
+			"_handleActivityShowModalOpen",
+			"_handleActivityEdit",
+			"_handleActivityShowUpdate",
+			"activityShowArr",
+			"_handleActivityModalOpen",
+			"showActivityData",
+			"showActivityArr",
+			"_handleActivityShow",
+			"_returnSortIconClass",
+			"idArr",
+			"'text-center clickable'",
+			"handleActivityDelete",
+			"handleActivityEdit",
+			"handleShowActivityChange",
+			"handleActivityShow",
+			"returnSortIconClass",
+			"handleSortStateUpdate",
+			"handleSortData",
+			"updateSortState",
+			"showActivity",
+			"addActivity",
+			"activityAdd",
+			"pluraliz",
+			"light-text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"returnUnitsObj",
+			"trim_peak_name(peak.name)",
+			"dismiss"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 248.0
+	},
+	"pinned_build_system": "",
+	"project": "first_100_days.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"activity",
+				"peakbucket\\app\\models\\activity.rb"
+			],
+			[
+				"four",
+				"peakbucket\\app\\models\\completion_styles\\four_season.rb"
+			],
+			[
+				"activrb",
+				"peakbucket\\app\\models\\activity.rb"
+			],
+			[
+				"schema",
+				"peakbucket\\db\\schema.rb"
+			],
+			[
+				"activity.rb",
+				"peakbucket\\app\\models\\activity.rb"
+			],
+			[
+				"grid",
+				"peakbucket\\app\\models\\completion_styles\\grid.rb"
+			],
+			[
+				"winter",
+				"peakbucket\\app\\models\\completion_styles\\winter.rb"
+			],
+			[
+				"jsonhel",
+				"peakbucket\\app\\helpers\\json_helper.rb"
+			],
+			[
+				"complestyle",
+				"peakbucket\\app\\models\\completion_style.rb"
+			],
+			[
+				"userlist",
+				"peakbucket\\app\\models\\user_list.rb"
+			],
+			[
+				"jsoncontr",
+				"peakbucket\\app\\controllers\\json_controller.rb"
+			],
+			[
+				"helper",
+				"peakbucket\\app\\helpers\\activities_helper.rb"
+			],
+			[
+				"userlist.r",
+				"peakbucket\\app\\models\\user_list.rb"
+			],
+			[
+				"jbuilder",
+				"peakbucket\\app\\views\\json\\user_show_data.json.jbuilder"
+			],
+			[
+				"routes",
+				"peakbucket\\config\\routes.rb"
+			],
+			[
+				"user.rb",
+				"peakbucket\\app\\models\\user.rb"
+			],
+			[
+				"completion",
+				"peakbucket\\app\\models\\completion_style.rb"
+			],
+			[
+				"allseas",
+				"peakbucket\\app\\models\\completion_styles\\all_season.rb"
+			],
+			[
+				"completcontro",
+				"peakbucket\\app\\controllers\\completion_styles_controller.rb"
+			],
+			[
+				"index_table",
+				"peakbucket\\app\\views\\lists\\_index_table.html.erb"
+			],
+			[
+				"viewlistsindex",
+				"peakbucket\\app\\views\\lists\\index.html.erb"
+			],
+			[
+				"viewlist",
+				"peakbucket\\app\\views\\users\\list_progress.html.erb"
+			],
+			[
+				"userlist.rb",
+				"peakbucket\\app\\models\\user_list.rb"
+			],
+			[
+				"yml",
+				"peakbucket\\test\\fixtures\\peaks.yml"
+			],
+			[
+				"peaks",
+				"peakbucket\\test\\fixtures\\peaks.yml"
+			],
+			[
+				"css",
+				"peakbucket\\config\\initializers\\session_store.rb"
+			],
+			[
+				"user",
+				"peakbucket\\app\\controllers\\users_controller.rb"
+			],
+			[
+				"activiti",
+				"peakbucket\\app\\controllers\\activities_controller.rb"
+			],
+			[
+				"schem",
+				"peakbucket\\db\\schema.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"form-control-static.input-sm"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 67.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
