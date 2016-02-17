@@ -16,18 +16,18 @@
   ],
   "peaks_then": 413,
   "peaks_now": 4577,
-  "activity_peaks": 3951,
+  "activity_peaks": 3991,
   "activity_peak_top_10_summits": [
-    {"short": "Washington", "long": "Washington (NH, USA)", "count":  109},
-    {"short": "Lafayette", "long": "Lafayette (NH, USA)", "count": 92},
-    {"short": "Lincoln", "long": "Lincoln (NH, USA)", "count": 89},
-    {"short": "Eisenhower", "long": "Eisenhower (NH, USA)", "count": 72},
-    {"short": "Monroe", "long": "Monroe (NH, USA)", "count":  68},
-    {"short": "Pierce", "long":  "Pierce (NH, USA)", "count":  67},
-    {"short": "Adams", "long": "Adams (NH, USA)", "count": 67},
-    {"short": "Jefferson", "long": "Jefferson (NH, USA)", "count": 66},
-    {"short": "Liberty", "long": "Liberty (NH, USA)", "count": 62},
-    {"short": "Madison", "long": "Madison (NH, USA)", "count": 62}
+    {"short": "Washington", "long": "Washington (NH, USA)", "count":  111},
+    {"short": "Lafayette", "long": "Lafayette (NH, USA)", "count": 95},
+    {"short": "Lincoln", "long": "Lincoln (NH, USA)", "count": 92},
+    {"short": "Eisenhower", "long": "Eisenhower (NH, USA)", "count": 73},
+    {"short": "Monroe", "long": "Monroe (NH, USA)", "count":  70},
+    {"short": "Pierce", "long":  "Pierce (NH, USA)", "count":  69},
+    {"short": "Adams", "long": "Adams (NH, USA)", "count": 68},
+    {"short": "Jefferson", "long": "Jefferson (NH, USA)", "count": 67},
+    {"short": "Liberty", "long": "Liberty (NH, USA)", "count": 64},
+    {"short": "Madison", "long": "Madison (NH, USA)", "count": 63}
   ],
   "lists_then": 11,
   "lists_now": 52,
@@ -38,22 +38,22 @@
     {"short": "NE 100", "long": "New England 100 Highest", "count": 44},
     {"short": "NE 115", "long": "Northeast 4000 Footers", "count": 36},
     {"short": "ADK 46", "long": "Adirondack 4000 Footers", "count": 31},
-    {"short": "NE 50", "long": "New England 50 Finest", "count": 17},
+    {"short": "NE 50", "long": "New England 50 Finest", "count": 18},
     {"short": "CO 14ers", "long": "Colorado 14ers", "count": 13},
     {"short": "US 50", "long": "U.S. State Highpoints", "count": 10},
     {"short": "ADK 100", "long": "Adirondack 100 Highest", "count": 9}
   ],
   "user_c_styles": [
-    {"name": "All Season", "count": 349, "total": 591},
-    {"name": "Winter", "count": 93, "total": 591},
-    {"name": "Four Season", "count": 91, "total": 591},
-    {"name": "Grid", "count": 58, "total": 591}
+    {"name": "All Season", "count": 355, "total": 621},
+    {"name": "Winter", "count": 101, "total": 621},
+    {"name": "Four Season", "count": 99, "total": 621},
+    {"name": "Grid", "count": 66, "total": 621}
   ],
-  "non_all_season_c_styles": "41%",
-  "activity_count": 2212,
+  "non_all_season_c_styles": "43%",
+  "activity_count": 2242,
   "activities_with_stats": "67%",
-  "total_activity_distance_km": 24442.41923,
-  "us_distance_multiple": "5.4",
-  "total_activity_elevation_gain_m": 1172914.421,
-  "everest_elevation_multiple": "132.6"
+  "total_activity_distance_km": 24609.6465,
+  "us_distance_multiple": "5.5",
+  "total_activity_elevation_gain_m": 1185148.178,
+  "everest_elevation_multiple": "134"
 }
