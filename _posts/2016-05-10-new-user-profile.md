@@ -63,13 +63,13 @@ The Views section, which used to have a dropdown, has been renamed Stats and now
 
 #### Activity
 
-The activity stats section contains a highlights section, a trends section, which can display activities, summits, distance, elevation and duration, in addition to a sortable activities table, below which you can extract your activity data when you're logged in.
+The activity stats subsection contains a highlights section, a trends section, which can display activities, summits, distance, elevation and duration, in addition to a sortable activities table, below which you can extract your activity data when you're logged in.
 
 ![Activity Stats Trends](/images/new_user_profile/activity_stats_trends.jpg "Activity stats trends")
 
 #### Peak
 
-The peak stats section contains a highlights section, a location section, which can display peaks by continent, country and state, in addition to a sortable summits table, below which you can extract your peak data when you're logged in.
+The peak stats subsection contains a highlights section, a location section, which can display peaks by continent, country and state, in addition to a sortable summits table, below which you can extract your peak data when you're logged in.
 
 ![Peak stats location](/images/new_user_profile/peak_stats_location.jpg "Peak stats location")
 
