@@ -97,7 +97,7 @@ A number of users felt that the submit button should be the rightmost button whe
 
 ### Confirm Cancel
 
-We understand that entering all of the data for an activity and then accidentally hitting cancel can be frustrating (we do it to from time to time). So we've added a confirmation prompt if you hit cancel after entering data for a new activity:
+We understand that entering all of the data for an activity and then accidentally hitting cancel can be frustrating (we do it too from time to time). So we've added a confirmation prompt if you hit cancel after entering data for a new activity:
 
 ![Activity Confirm Cancel](/images/new_user_profile/activity_confirm_cancel.jpg "Activity confirm cancel")
 
