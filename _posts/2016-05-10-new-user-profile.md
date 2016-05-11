@@ -37,7 +37,7 @@ The new Log section looks a lot like the old one, but with a number of new featu
 
 #### Heat Map
 
-The Activity Log heat map  to reflect the current date and peak search selections, and can display activities, summits, distance, elevation or duration:
+The Activity Log heat map will now reflect the current date and peak search selections, and can display activities, summits, distance, elevation or duration:
 
 ![Activity Log Day Heat Map](/images/new_user_profile/activity_log_heat_map_days.jpg "Activity log heat map by day for the last 365 days")
 
@@ -57,19 +57,19 @@ Click on a row in the Activity Log table to see the details for an activity:
 
 ### Stats Section
 
-The Views section, which used to have a dropdown, has been renamed Stats and now has an Activity and a Peak section:
+The Views section, which used to have a dropdown, has been renamed Stats and now has Activity and Peak subsections:
 
 ![Stats Sections](/images/new_user_profile/stats_sections.jpg "Activity and peak stats sections")
 
 #### Activity
 
-The activity stats section contains a highlights section, a trends section, which can display activities, summits, distance, elevation and duration, in addition to an activities table, below which you can extract your activity data when you're logged in.
+The activity stats section contains a highlights section, a trends section, which can display activities, summits, distance, elevation and duration, in addition to a sortable activities table, below which you can extract your activity data when you're logged in.
 
 ![Activity Stats Trends](/images/new_user_profile/activity_stats_trends.jpg "Activity stats trends")
 
 #### Peak
 
-The peak stats section contains a highlights section, a location section, which can display peaks by continent, country and state, in addition to a summits table, below which you can extract your peak data when you're logged in.
+The peak stats section contains a highlights section, a location section, which can display peaks by continent, country and state, in addition to a sortable summits table, below which you can extract your peak data when you're logged in.
 
 ![Peak stats location](/images/new_user_profile/peak_stats_location.jpg "Peak stats location")
 
@@ -109,6 +109,6 @@ Deleting an activity can be serious business, especially if you accidentally del
 
 - - -
 
-That's it for major changes in this update. As you can see, a number of these changes were the result of user feedback, so don't hesitate to <a href="https://peakbucket.com/contact" target="_parent">contact us</a> if there's a feature you'd like to see on PeakBucket. Additionally, we're already hard at work on the next update to the site, so be sure to check back here soon!
+That's it for major changes. As you can see, a number of the changes in this update were the result of user feedback, so don't hesitate to <a href="https://peakbucket.com/contact" target="_parent">contact us</a> if there's a feature you'd like to see on PeakBucket. Additionally, we're already hard at work on the next update to the site, so be sure to check back here soon!
 
 – Colin & Max
