@@ -6,7 +6,7 @@
 name: PeakBucket
 
 # Short bio or description (displayed in the header)
-description: The latest on the data tracking and visualization website for peakbaggers
+description: The latest on the activity tracking website for peakbaggers
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://secure.gravatar.com/avatar/1e936ce6768bdaba89f583130bfe1b55
@@ -66,3 +66,6 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+# avoid metadata error with watch
+github: [metadata]
