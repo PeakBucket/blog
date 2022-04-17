@@ -70,4 +70,4 @@ exclude:
 # avoid metadata error with watch
 github: [metadata]
 
-theme: jekyll-theme-slate
+theme: ''
